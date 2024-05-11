@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "pandavideo",
+      "source": "@pandavideo/v2.0#ev2e1klrazpelb",
+      "integrity": "sha512-2zAfN8QZPX6IP5RFWdrNpWtmTldzk6G+F/Ad91I/H3aBlJ1eKvHA7jnKel+EksfNwcLJZUmV1Pbz5qXbxtAOKg==",
+      "installerVersion": "6.1.1"
+    }
+  ]
+}
